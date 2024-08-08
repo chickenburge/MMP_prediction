@@ -1,6 +1,7 @@
 # MMP_prediction
 Prediction model of AAD complicating MMP
-![image](https://github.com/chickenburge/MMP_prediction/blob/master/png/flow.png)
+![image](https://github.com/chickenburge/MMP_prediction/blob/master/png/zflow.png)
+
 
 
 # Citation
