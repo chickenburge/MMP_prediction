@@ -6,13 +6,17 @@ Prediction model of AAD complicating MMP
 # Citation
 To cite our work, please use the following:
 ```
-    @article{xxx,
+        @article{xxx,
         title={xxx},
         author={xxx},
         journal={xxx},
         year={xxx}
     }
 ```
+
+# Available for Segmentation Models:
+https://share.weiyun.com/gwVyFo5q
+
 
 # Acknowledgements
 Thank for the authors of nnU-Net and Med3D for making the code publicly available  
