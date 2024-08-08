@@ -1,6 +1,6 @@
 # MMP_prediction
 Prediction model of AAD complicating MMP
-！[image](png/flow.png)
+！[png/flow.png](png/flow.png)
 
 
 # Citation
