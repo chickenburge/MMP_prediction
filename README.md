@@ -1,2 +1,2 @@
 # MMP_prediction
-Prediction model of AAD complicating MMP!
+Prediction model of AAD complicating MMP
