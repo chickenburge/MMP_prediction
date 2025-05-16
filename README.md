@@ -7,11 +7,12 @@ Prediction model of AAD complicating MMP
 # Citation
 To cite our work, please use the following:
 ```
-        @article{xxx,
-        title={xxx},
-        author={xxx},
-        journal={xxx},
-        year={xxx}
+        @Article{,
+        Title={A Deep Learning Model for Identifying the Risk of Mesenteric Malperfusion in Acute Aortic Dissection Using Initial Diagnostic Data: Algorithm Development and Validation},
+        Authors={Zhechuan Jin, Jiale Dong, Chengxiang Li, Yi Jiang, Jian Yang, Lei Xu, Ping Li, Zhun Xie, Yulin Li, Dongjin Wang, Zhili Ji},
+        Journal={Journal of Medical Internet Research},
+        Year={2025},
+        Doi={xxx}
     }
 ```
 
